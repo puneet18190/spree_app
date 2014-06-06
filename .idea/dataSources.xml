@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1187095071">
+    <data-source source="LOCAL" name="Rails spree_app: development" uuid="0a6693cc-ca71-45f7-9c36-ac5df3b9be7a">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:dev_my_spree</jdbc-url>
+      <user-name>puneet</user-name>
+      <user-password>dfdadfdfdfc4dfcfdfcfdfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails spree_app: test" uuid="afafe4ea-f0b6-459f-8058-9e549c443e01">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:test_spree</jdbc-url>
+      <user-name>puneet</user-name>
+      <user-password>dfdadfdfdfc4dfcfdfcfdfde</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails spree_app: production" uuid="dd2202c9-88fd-4b8f-8d01-e05cef34dbc1">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:pro_spree</jdbc-url>
+      <user-name>puneet</user-name>
+      <user-password>dfdadfdfdfc4dfcfdfcfdfde</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
